@@ -1,0 +1,17 @@
+D:\Visual Studio C# Projects\C# Window Form Applications\CameraApp\Camera\bin\Debug\Camera.exe.config
+D:\Visual Studio C# Projects\C# Window Form Applications\CameraApp\Camera\bin\Debug\Camera.exe
+D:\Visual Studio C# Projects\C# Window Form Applications\CameraApp\Camera\bin\Debug\Camera.pdb
+D:\Visual Studio C# Projects\C# Window Form Applications\CameraApp\Camera\bin\Debug\AForge.Video.DirectShow.dll
+D:\Visual Studio C# Projects\C# Window Form Applications\CameraApp\Camera\bin\Debug\AForge.Video.dll
+D:\Visual Studio C# Projects\C# Window Form Applications\CameraApp\Camera\obj\Debug\Camera.csprojResolveAssemblyReference.cache
+D:\Visual Studio C# Projects\C# Window Form Applications\CameraApp\Camera\obj\Debug\Camera.Form1.resources
+D:\Visual Studio C# Projects\C# Window Form Applications\CameraApp\Camera\obj\Debug\Camera.Properties.Resources.resources
+D:\Visual Studio C# Projects\C# Window Form Applications\CameraApp\Camera\obj\Debug\Camera.csproj.GenerateResource.Cache
+D:\Visual Studio C# Projects\C# Window Form Applications\CameraApp\Camera\obj\Debug\Camera.csproj.CoreCompileInputs.cache
+D:\Visual Studio C# Projects\C# Window Form Applications\CameraApp\Camera\obj\Debug\Camera.exe
+D:\Visual Studio C# Projects\C# Window Form Applications\CameraApp\Camera\obj\Debug\Camera.pdb
+D:\Visual Studio C# Projects\C# Window Form Applications\CameraApp\Camera\bin\Debug\Accord.dll.config
+D:\Visual Studio C# Projects\C# Window Form Applications\CameraApp\Camera\bin\Debug\Accord.dll
+D:\Visual Studio C# Projects\C# Window Form Applications\CameraApp\Camera\bin\Debug\Accord.xml
+D:\Visual Studio C# Projects\C# Window Form Applications\CameraApp\Camera\bin\Debug\AForge.dll
+D:\Visual Studio C# Projects\C# Window Form Applications\CameraApp\Camera\bin\Debug\AForge.xml
